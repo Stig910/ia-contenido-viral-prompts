@@ -10,6 +10,9 @@ En esta sección se presentan ejemplos de prompts clasificados por temática. P
 | Salud      | "Crea una publicación para Instagram Reels que motive a llevar una vida activa, usando #salud y #bienestar."                       |
 | Viajes     | "Genera un video para TikTok destacando los 3 mejores destinos para viajeros jóvenes, con #viajes y #aventura."                    |
 | Marketing  | "Escribe un post para LinkedIn que explique cómo usar IA en estrategias de marketing digital, incluyendo #marketingdigital e #IA." |
+| Tecnología | "Crea un carrusel para Instagram que resuma las últimas tendencias en tecnología, utilizando #tecnología, #innovación y #IA." |
+| Gastronomía | "Escribe una receta creativa en un tweet de 280 caracteres para una comida saludable, con hashtags #gastronomía y #recetas." |
+| Ciencia | "Genera un hilo de LinkedIn explicando un descubrimiento científico reciente y su impacto, con #ciencia y #curiosidades." |
 
 ## Cómo adaptarlos
 
